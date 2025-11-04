@@ -1,6 +1,6 @@
 # numstat
 
-Calculate statistics for numerical data from the command line, making it available system-wide.
+Calculate statistics for numerical data from the command line, making it available system-wide and as a single file.
 
 My first attempt on C.
 
