@@ -1,8 +1,6 @@
-# C Learning Repository (numstat)
+# C-repo - Learning Repository
 
 A collection of C programming exercises and utilities. Started as a statistics calculator, now includes various learning projects.
-
-**Note**: This repository will be renamed in the future to better reflect its purpose as a compilation of C exercises rather than a single project.
 
 My first attempts at C programming.
 
